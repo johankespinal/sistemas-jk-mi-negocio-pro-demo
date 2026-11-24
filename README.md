@@ -2,6 +2,12 @@
 
 Demo de portafolio: panel web de compras, ventas, balance, gráficos de últimos siete días, clientes/retiros, reportes CSV y dictado de voz experimental.
 
+## Vista previa del sistema
+
+![Panel de gestión de Mi Negocio PRO](Panel%20de%20gesti%C3%B3n%20Mi%20Negocio.png)
+
+**[Abrir la demo interactiva](https://johankespinal.github.io/sistemas-jk-mi-negocio-pro-demo/)**
+
 ## Uso
 
 Abre `index.html` en el navegador. Para las pruebas de voz se necesita un navegador compatible y normalmente un contexto HTTPS, como GitHub Pages. No hay que instalar Node ni servidor.
